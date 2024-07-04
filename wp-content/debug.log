@@ -1,0 +1,10 @@
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\core\components\api\spam\Provider.php on line 149
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Creation of dynamic property ET_Core_HTTPInterface::$expects_json is deprecated in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\core\components\HTTPInterface.php on line 305
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Creation of dynamic property ET_Core_HTTPInterface::$owner is deprecated in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\core\components\HTTPInterface.php on line 307
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Creation of dynamic property ET_Core_API_Spam_ReCaptcha::$data_utils is deprecated in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\core\components\api\Service.php on line 244
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Creation of dynamic property ET_Core_API_Spam_ReCaptcha::$API_KEY_REQUIRED is deprecated in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\core\components\api\Service.php on line 247
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\includes\builder\framework.php on line 798
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\includes\builder\framework.php on line 799
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\includes\builder\autoload.php on line 118
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\includes\builder\feature\dynamic-assets\class-dynamic-assets.php on line 1135
+[17-May-2024 04:28:58 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in C:\xampp\htdocs\FigmaDivi\wp-content\themes\Divi\includes\builder\feature\dynamic-content.php on line 116
