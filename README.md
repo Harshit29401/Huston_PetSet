@@ -45,3 +45,19 @@ The project uses the Divi Builder theme to create a visually appealing and respo
    - Any custom CSS styles are managed through the WordPress Customizer’s Additional CSS section.
 
 
+## **How to Run the Project**
+
+Follow these steps to run the project on your local server:
+
+1. **Rename Project Folder**:
+   - Rename the project folder to `FigmaDivi`.
+
+2. **Set Up Localhost Environment**:
+   - Run the project on a local server environment such as **WAMP** or **XAMPP**.
+   - Move the project folder to your server's `www` or `htdocs` directory.
+
+3. **Access the Project**:
+   - Open a web browser and visit `http://localhost/FigmaDivi` to access the site.
+
+4. **Database Setup**:
+   - Import the `divifigma.sql` file into your database using tools like phpMyAdmin or MySQL command line to set up the database schema.
